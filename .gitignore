@@ -1,0 +1,17 @@
+# dependencies
+**/node_modules
+
+# env
+**/.env
+**/.env.*
+
+# builds
+**/dist
+**/.vite
+
+# logs
+**/*.log
+
+# OS
+.DS_Store
+Thumbs.db
